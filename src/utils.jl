@@ -1,7 +1,3 @@
-module Print_with_color
-
-# package code goes here
-
 export @pcyan,@pblue,@pred,@pgreen
 
 
@@ -15,10 +11,3 @@ for (fn,clr) in ((:pcyan,   :cyan),
     end
     
 end
-
-
-
-
-
-
-end # module
